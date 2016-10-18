@@ -33,6 +33,12 @@ An issue I encountered is that I found I have to order my test in a reasonable o
 
 In the project I use GherKin for writing feature file, they are available at: [Feature File](./OnlineStore/Feature/)
 
+## References
+
+1. [First Cucumber Selenium Java Test](http://toolsqa.com/cucumber/first-cucumber-selenium-java-test/)
+2. [Data Tables in Cucumber](http://toolsqa.wpengine.com/cucumber/data-tables-in-cucumber/)
+3. [Feature File](http://toolsqa.wpengine.com/cucumber/cucumber-jvm-feature-file/)
+
 
 
 
