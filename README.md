@@ -11,7 +11,8 @@
 5. IDE: Eclipse
 
 ## Project Structure
-  ![project structure screenshot](./img/project-struture.png)
+
+  ![project structure screenshot](./img/project-structure.png)
   
   Link to [Test Runner](./OnlineStore/src/cucumberTest/TestRunner.java)
   
