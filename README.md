@@ -1,6 +1,6 @@
 # Online Shopping Website Testing 
 
-> Online shopping website Testing use JUnit, Cucumber and Java
+> Online shopping website Testing use JUnit, Cucumber, Selenium and Java
 
 ## Project Dependencies
 
