@@ -9,6 +9,7 @@
 3. Test Driver: JUnit
 4. Browser Driver: Google Chrome
 5. IDE: Eclipse
+6. Website Tested: [store.demoqa.com](http://store.demoqa.com)
 
 ## Project Structure
 
