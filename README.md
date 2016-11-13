@@ -11,17 +11,29 @@
 5. IDE: Eclipse
 6. Website Tested: [store.demoqa.com](http://store.demoqa.com)
 
+## Some Tips for Running the Project 
+
+1. All jar files and webdriver file is contained in `jars` folder, please make sure all those jars are configured before running the test  
+2. Please modify the webdriver path in all java classes in stepDefinition folder, so that it will match your local path
+3. The TestRunner is in `cucumberTest` folder
+
 ## Project Structure
 
   ![project structure screenshot](./img/project-structure.png)
   
   Link to [Test Runner](./OnlineStore/src/cucumberTest/TestRunner.java)
   
-  Link to [Test Definition](./OnlineStore/src/testDefinition/Test_Steps.java)
+  Link to [Step Definition](./OnlineStore/src/stepDefinition): in this folder, there are three classes, `Test_Steps.java` is for feature file `Login_Test.feature`, `Test_Steps1.java` is for `Purchase_Item_Test.feature`, `Test_Steps2.java` is for `Purchase_Test.feature`. 
 
 ## Test Result Screeshot
 
   ![test result](./img/feature-structure.png)
+
+## User Stories
+
+1. Story 1: I want to login to my account so that I can navigate and then Logout
+2. Story 2: I want to login to my account and go to items page so that I can see item details 
+3. Story 3: I want to add an item from the website and add it to my shopping cart so that I can checkout and finishing buying the item 
 
 
 ## Issues Description and Special Steps
