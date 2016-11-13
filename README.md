@@ -33,7 +33,7 @@
 
 1. Story 1: I want to login to my account so that I can navigate and then Logout
 2. Story 2: I want to login to my account and go to items page so that I can see item details 
-3. Story 3: I want to add an item from the website and add it to my shopping cart so that I can checkout and finishing buying the item 
+3. Story 3: I want to add an item from the website to my shopping cart so that I can checkout and finishing buying the item 
 
 
 ## Issues Description and Special Steps
